@@ -7,7 +7,7 @@ package com.example;
 public class App {
     public static void main(String[] args) {
         System.out.println(Factorial.getFactorialRec(6));
-        HanoiTower myTower = new HanoiTower(7);
+        HanoiTower myTower = new HanoiTower(6);
         myTower.move(0, 2);
 
     }
