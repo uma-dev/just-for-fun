@@ -21,10 +21,8 @@ After trying found an idea to solve the problems using stacks and a recursive me
 The code was wtitten to show [push() and pop()](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) (in _top element_) in the three stacks using game rules. It always find the optimal solution wich is 2<sup>n</sup>-1, where _n_ is the **number of disks**.
 
 <p align="center"> 
-	<img alt="Game execution" src="">
-</p>
-<p align="center"> 
-	<img alt="Game execution" src="">
+	<img alt="Game execution" src="https://user-images.githubusercontent.com/22565959/216702068-954ebced-c43d-446d-b943-17b682dd131d.png"> =
+	<img alt="Game execution" src="https://user-images.githubusercontent.com/22565959/216702369-34bc3696-dadc-4dcb-8f74-d3da37b4c8fc.png">
 </p>
 
 ## Factorial 
