@@ -12,9 +12,19 @@ The workspace contains three folders by default, where:
 
 ## Tower of Hanoi using stacks
 After looking at the famous problem while surfing online, I decided to dowload an [Android game](https://play.google.com/store/apps/details?id=johan.moller.towerofhanoi&hl=en&gl=US&pli=1) and take a look on to the problem. 
-After trying found an idea to solve the problems using stacks.
+After trying found an idea to solve the problems using stacks and a recursive method.
 
 <p align="center"> 
 	<img alt="Game playstore" src="https://user-images.githubusercontent.com/22565959/216694618-9a8310dd-5805-4174-baf8-bacd1b537cfb.png">
 </p>
+The code was wtitten to show [push() and pop()](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) (in _top element_) in the three stacks using game rules. It always find the optimal solution wich is 2<sup>2</sup>-1 where _n_ is the number of disks.
 
+<p align="center"> 
+	<img alt="Game execution" src="">
+</p>
+<p align="center"> 
+	<img alt="Game execution" src="">
+</p>
+
+## Factorial 
+Just another code to solve this classical problem while dealing with recursive methods.
