@@ -17,7 +17,8 @@ After trying found an idea to solve the problems using stacks and a recursive me
 <p align="center"> 
 	<img alt="Game playstore" src="https://user-images.githubusercontent.com/22565959/216694618-9a8310dd-5805-4174-baf8-bacd1b537cfb.png">
 </p>
-The code was wtitten to show [push and pop](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) (in _top element_) in the three stacks using game rules. It always find the optimal solution wich is 2<sup>2</sup>-1 where _n_ is the number of disks.
+
+The code was wtitten to show [push() and pop()](https://www.andrew.cmu.edu/course/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html) (in _top element_) in the three stacks using game rules. It always find the optimal solution wich is 2<sup>n</sup>-1, where _n_ is the **number of disks**.
 
 <p align="center"> 
 	<img alt="Game execution" src="">
